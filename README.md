@@ -1,4 +1,4 @@
-### Greetings, my name is Clark
+### Greetings, I'm Clark
 
 <br/>
 
