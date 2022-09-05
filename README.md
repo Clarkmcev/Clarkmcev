@@ -7,9 +7,9 @@
 
 👨‍💻 All of my projects:
   
-   [Runman](https://clarkmcev.github.io/): An arcade retro 2D platform videogame, in which you have to collect as much fruits as you can without falling out.
+<p>   </p>[Runman](https://clarkmcev.github.io/): An arcade retro 2D platform videogame, in which you have to collect as much fruits as you can without falling out.
    
-   [Proprio](https://app-proprio.herokuapp.com/): Fullstack real estate application facilitating the sales/rent of properties. 
+<p>   </p>[Proprio](https://app-proprio.herokuapp.com/): Fullstack real estate application facilitating the sales/rent of properties. 
 
 📫 mcevoyclark@gmail.com | +33 6 65 32 32 13
 
