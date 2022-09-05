@@ -1,13 +1,9 @@
 <h1>Hi 👋, I'm Clark</h1>
-<h3>An IT Engineer based in Frankfurt, Germany</h3>
+<h3>Software Engineer based in Frankfurt, Germany</h3>
 
 🔭 I’m currently ending a Fullstack web development Bootcamp at Ironhack in order to kick off a career in Frontend development.
 
 🌱 React Fullstack project loading ...
-
-
-
-- 🤝 I’m looking for help with [qwe](qwe)
 
 👨‍💻 All of my projects:
   
