@@ -5,7 +5,7 @@
 
 🌱 React Fullstack project loading ...
 
-👨‍💻 All of my projects:
+👨‍💻 My projects
   
 [Runman](https://clarkmcev.github.io/) : An arcade retro 2D platform videogame, in which you have to collect as much fruits as you can without falling out.
    
