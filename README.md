@@ -1,25 +1,23 @@
 <h1>Hi 👋, I'm Clark</h1>
-<h3>A passionate frontend developer based in Germany</h3>
+<h3>An IT Engineer based in Frankfurt, Germany</h3>
 
-- 🔭 I’m currently working on [qwe](qwe)
+🔭 I’m currently ending a Fullstack web development Bootcamp at Ironhack in order to kick off a career in Frontend development.
 
-- 🌱 I’m currently learning **eqw**
+🌱 React Fullstack project loading ...
 
-- 👯 I’m looking to collaborate on [qwe](qwe)
+
 
 - 🤝 I’m looking for help with [qwe](qwe)
 
-- 👨‍💻 All of my projects are available at [qwe](qwe)
+👨‍💻 All of my projects:
+  
+   [Runman](https://clarkmcev.github.io/): An arcade retro 2D platform videogame, in which you have to collect as much fruits as you can without falling out.
+   
+   [Proprio](https://app-proprio.herokuapp.com/): Fullstack real estate application facilitation property sales or rents.  
 
-- 📝 I regularly write articles on [qwe](qwe)
+📫 mcevoyclark@gmail.com | +33 6 65 32 32 13
 
-- 💬 Ask me about **qwe**
-
-- 📫 How to reach me **qwe**
-
-- 📄 Know about my experiences [qwe](qwe)
-
-- ⚡ Fun fact **qwe**
+📄 Master of IT Engineering | MSc Finance
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
