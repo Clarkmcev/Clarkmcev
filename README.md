@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Clark McEvoy</h1>
-<h3 align="center">A passionate frontend developer from France.</h3>
+<h1>Hi 👋, I'm Clark</h1>
+<h3>A passionate frontend developer based in Germany</h3>
 
 - 🔭 I’m currently working on [qwe](qwe)
 
