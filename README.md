@@ -9,7 +9,9 @@
   
 [Runman](https://clarkmcev.github.io/) : An arcade retro 2D platform videogame, in which you have to collect as much fruits as you can without falling out.
    
-[Proprio](https://app-proprio.herokuapp.com/) : Fullstack real estate web application facilitating the sales/rent of properties. 
+[Proprio](https://app-proprio.herokuapp.com/) : Fullstack real estate web application facilitating the sales/rent of properties.
+
+[Vitalcool](https://vitalcool.netlify.app/) : E-commerce beverages website
 
 📫 mcevoyclark@gmail.com | +33 6 65 32 32 13
 
