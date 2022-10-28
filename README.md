@@ -1,13 +1,21 @@
-<h1>Greetings passengers, I'm Clark</h1> 
-<h3>A passionate Frontend Developer spending most of his time coding and building things on the web.</h3>
+#### Greetings, I'm Clark <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-🔭 Looking for opportunities!
+A passionate Frontend Developer spending most of his time coding, building things on the web and learning new technologies.
+
+- 🔭 I’m currently looking for opportunities
+- 🤔 I’m looking to kick off a career in Frontend development
+- ⚡ Can't like without music and my daily sport dose
+- :musical_keyboard: [My music yt channel] (https://www.youtube.com/watch?v=J226bNNNi5M&ab_channel=fijiwa)
+
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
 👨‍💻 My projects
 
+#### Top Technologies
+
 Check my [Portfolio](https://clarkmcevoy.com)!
 
-📫 mcevoyclark@gmail.com | +33 6 65 32 32 13
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) mcevoyclark@gmail.com | +33 6 65 32 32 13
 
 📄 Master of IT Engineering | MSc Finance | Linkedin : <a href="https://www.linkedin.com/in/clark-mcevoy-904378150/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/" height="20" width="30" /></a>
 
