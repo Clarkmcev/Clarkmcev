@@ -5,7 +5,6 @@ A passionate Frontend Developer spending most of his time coding, building thing
 ## About me
 
 - 🔭 I’m currently looking for opportunities and learning about NextJs
-- 🤔 I’m looking to kick off a career in Frontend development
 - ⚡ Can't like without music, technology and my daily sport dose
 - :school: Master of IT Engineering / MSc Finance / Fullstack Web Development Bootcamp
 - 📫 mcevoyclark@gmail.com
