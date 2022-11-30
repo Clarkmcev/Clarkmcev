@@ -4,10 +4,9 @@ A passionate Frontend Developer spending most of his spare time coding, building
 
 ## About me
 
-- ⚡ Can't like without music, technology and my daily sport dose
+- ⚡ Can't live without music, technology and my daily sport dose
 - :school: Master of IT Engineering / MSc Finance / Fullstack Web Development Bootcamp
 - 📫 mcevoyclark@gmail.com
-- ☎️ +33 6 65 32 32 13
 - 👉 [My portfolio](https://clarkmcevoy.com/)
 - :musical_keyboard: [My music yt channel](https://www.youtube.com/watch?v=J226bNNNi5M&ab_channel=fijiwa)
 
